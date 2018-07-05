@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * 综合控制器
- * @author 疯狂的蜗牛君_
+ * @author 
  *
  */
 @Controller
